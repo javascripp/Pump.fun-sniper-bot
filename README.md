@@ -1,4 +1,4 @@
-# Pump.fun-bot-
+# Pump.fun trading bot 
 Pump.fun sniper bot (Snipe and sell before rugpull)
 
 ## Pump.fun Trading Automation Bot
