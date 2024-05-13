@@ -8,9 +8,6 @@ Snipe tokens at first and sell by take profit strategy.
 The only working self runnable trading for the pumpfun tokens.
 
 
-![hksjdksklds](https://github.com/0xdevlen/Ultra-pump.fun-bot/assets/166412248/0eb854db-8db4-4453-9358-ca8f4d98d49d)
-
-
 #### Bots trades transaction as below:
 
 ![IMG_20240421_152729_819](https://github.com/0xdevlen/Ultra-pump.fun-bot/assets/166412248/f1b97707-64a0-4739-a15b-be2cad204fe5)
