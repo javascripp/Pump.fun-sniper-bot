@@ -80,3 +80,21 @@ Its just like token sniper and with preset rules. You can customise almost anyth
 
 This bot caters to both experienced traders seeking to automate their workflow and newcomers who want to leverage algorithmic strategies. 
 
+## 🚀 CONFIG
+1. Configure the script by updating `.env` file
+2. `PRIVATE_KEY` (your wallet private key)
+  
+## 🛸 INSTALL
+
+1. Have nodejs installed ( https://nodejs.org/en )
+Open cmd and Install dependencies by typing: `npm install`
+2. Run the script by typing: `npm run buy` in terminal
+
+## 🚀 Does not work ?
+## 🚀 Have 0.001 WSOL or more in your wallet this is for speeding up transactions, the script only used 0.0000001 WSOL... //--> https://station.jup.ag/guides/general/wrapped-sol
+## 🚀 Have enough Solana in your wallet for making high profits...
+
+So if you dont have WSOL and SOLANA in your wallet the script wont work!
+
+Thats all.
+
