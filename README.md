@@ -110,8 +110,8 @@ This bot caters to both experienced traders seeking to automate their workflow a
 ## 🛸 INSTALL
 
 1. Have nodejs installed ( https://nodejs.org/en )
-Open cmd and Install dependencies by typing: `npm install`
-2. Run the script by typing: `npm run buy` in terminal
+Open cmd terminal in extracted folder (or cd path/to/project) and Install dependencies by typing: `npm install`
+2. Run the script by typing: `npm run buy` in cmd terminal
 
 ## 🚀 Does not work ?
 ## 🚀 Have 0.001 WSOL or more in your wallet this is for speeding up transactions, the script only used 0.0000001 WSOL... //--> https://station.jup.ag/guides/general/wrapped-sol
