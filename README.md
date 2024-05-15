@@ -1,7 +1,8 @@
 # Pump.fun bot // Pump.fun auto buy bot // pump.fun sniper bot // pump.fun rugpull // pump.fun script
 Pump.fun bot (Auto buy and sell tokens with profit)
 Fully automated pump.fun bot that places orders and sell by take profit. Tools for pumpfun Site
-![Pump.fun sniper bot, pump.fun bot, pump.fun trading bot](https://miro.medium.com/v2/resize:fit:875/1*DsJILG3MeK75S6JufSx-bw.png)
+![Pump.fun sniper bot, pump.fun bot, pump.fun trading bot]()
+![Pump.fun sniper bot, pump.fun bot, pump.fun trading bot](https://pump.mypinata.cloud/ipfs/QmYZyHDzWJtjCPhQwscNp3ibho2vKdkUAasWwidoifieTY)
 
 Pump.fun Trading Automation Bot
 Welcome to pumpfunbot or pump.fun bot that automates buy and sell on pump.fun tokens. It is a Fully automated snipper bot for pump.fun tokens. Snipe tokens at first and sell by take profit strategy. The only working self runnable trading for the pumpfun tokens.
@@ -35,7 +36,7 @@ The only working self runnable trading for the pumpfun tokens.
 
 #### Bots trades transaction as below:
 
-![IMG_20240421_152729_819](https://github.com/0xdevlen/Ultra-pump.fun-bot/assets/166412248/f1b97707-64a0-4739-a15b-be2cad204fe5)
+![Pump.fun sniper bot, pump.fun bot, pump.fun trading bot](https://github.com/0xdevlen/Ultra-pump.fun-bot/assets/166412248/f1b97707-64a0-4739-a15b-be2cad204fe5)
 
 
 ## Do it snipe every token ?
@@ -71,7 +72,7 @@ Nothing good comes for free! Even telegram bots charges you a fee on every trade
 
 > Trading live terminal view:
  
-![image](https://github.com/0xdevlen/Ultra-pump.fun-bot/assets/166412248/3d0dfa00-d5ad-42fd-881c-0586b531305e)
+![Pump.fun sniper bot, pump.fun bot, pump.fun trading bot](https://github.com/0xdevlen/Ultra-pump.fun-bot/assets/166412248/3d0dfa00-d5ad-42fd-881c-0586b531305e)
 
 
 Its just like token sniper and with preset rules. You can customise almost anything in it.
@@ -85,7 +86,7 @@ Its just like token sniper and with preset rules. You can customise almost anyth
 
 > Fetches new tokens instanlty
 
-![image](https://github.com/0xdevlen/Ultra-pump.fun-bot/assets/166412248/e7b44a0d-e323-4307-ba1e-1823be1b42d2)
+![Pump.fun sniper bot, pump.fun bot, pump.fun trading bot](https://github.com/0xdevlen/Ultra-pump.fun-bot/assets/166412248/e7b44a0d-e323-4307-ba1e-1823be1b42d2)
 
 
 ### Features
